@@ -1,3 +1,7 @@
 # My-initial-R-functions
 Custom functions that can be applied for data analysis. 
-These will be basic functions that are meant to help strengthen programming skills in R
+ Currently (7th-July-2015) there are two R functions
+ 
+ They both work with contigency tables. The first calles "ProportionFunction.R" Computes the proportions of two categorical variables. 
+ 
+ The second called "PercentageFunction.R" cnverts the proportions to a percentage and presents the results in a matrix together with the frequencies.
